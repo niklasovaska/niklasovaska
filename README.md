@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ### A business information technology student learning software development
 
-🌱 I’m currently learning React.js and communication with the back-end (Full Stack Open part 2) 
+🌱 I’m currently learning React.js and communication with the back-end (Full Stack Open part 3) 
 
 🔭 Spring 2025 university courses include  
-- Front-end programming (DOM, React.js, http request)
-- Back-end programming (Spring Boot, ORM, JPA)
+- Front-end programming (React, Node, Express, SQLite)
+- Back-end programming (Spring Boot)
 - Cloud services technologies (AWS Certified Cloud Practitioner certification)
 
 <h3 align="left">Languages and Tools:</h3>
