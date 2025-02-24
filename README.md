@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### A business information technology student learning software development
+### A business information technology student becoming a full stack developer
 
-🌱 I’m currently learning React.js and communication with the back-end (Full Stack Open part 3) 
+🌱 I’m currently studying modern full stack web development on Full Stack Open (part 3 at the moment)
 
 🔭 Spring 2025 university courses include  
-- Front-end programming (React, Node, Express, SQLite)
-- Back-end programming (Spring Boot)
+- Front-end programming (course project utilizing React, Node, Express and SQLite)
+- Back-end programming (course project utilizing Spring Boot and MySQL)
 - Cloud services technologies (AWS Certified Cloud Practitioner certification)
 
 <h3 align="left">Languages and Tools:</h3>
