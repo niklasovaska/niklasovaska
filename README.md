@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   | Book review club | Rate and review books for a reading challenge | React | Node | MySQL | AWS or Digital Ocean
  
 - **Back-end programming course**  
-  Course project repo: https://github.com/niklasovaska/backend25-project-assignment
+  Course project repo: https://github.com/niklasovaska/backend25-course-project
   | Course project    | Description | Front | Back | Database | Deployment |
   | -------- | ------- | ------- | ------- | ------- | ------- |
   | Album collection | Login to browse and update a shared album collection | React + TypeScript | Spring Boot | PostgreSQL | Heroku
