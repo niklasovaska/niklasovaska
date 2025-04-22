@@ -34,6 +34,8 @@ React application for accounting completed courses, drag-and-drop to schedule up
 - **Front-end programming course**
   Building a book review and rating application for a reading challenge. **Node** back-end exposing APIs and serving CRUD functionalities. Deployment to **Digital Ocean**.  
   [Project repo](https://github.com/niklasovaska/book-review-app)
+
+- AWS Cloud Foundations - pursuing a AWS Cloud Practitioner certification
   
 - **Software Development Project I course**  
   Deliver a full stack application for a client as member of a software development team using agile methods  
