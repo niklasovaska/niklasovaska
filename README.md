@@ -19,30 +19,22 @@ Here are some ideas to get you started:
 🌱 I’m currently studying modern full stack web development on Full stack open (part 4 and 5 at the moment)  
 
 ⚡ First live full stack project  
-- Live link: https://nova-study-hops.fly.dev/
-- Front-end repo: https://github.com/niklasovaska/personal-study-plan-application-front
-- Back-end repo: https://github.com/niklasovaska/personal-study-plan-application-backend
-| Course project    | Description | Front | Back | Database | Deployment |
-  | -------- | ------- | ------- | ------- | ------- | ------- |
-  | Personal study plan | Account completed courses, drag-and-drop to schedule upcoming course | React | Node | MongoDB | Fly.io
+**Personal study plan**  
+React application for accounting completed courses, drag-and-drop to schedule upcoming courses  
+[Live link](https://nova-study-hops.fly.dev/) | [Front-end repo](https://github.com/niklasovaska/personal-study-plan-application-front) | [Back-end repo](https://github.com/niklasovaska/personal-study-plan-application-backend)  
+
 
 
 
 🔭 Spring 2025 university courses include  
-- **Front-end programming course**  
-  Course project repo: https://github.com/niklasovaska/book-review-app
-  | Course project    | Description | Front | Back | Database | Deployment |
-  | -------- | ------- | ------- | ------- | ------- | ------- |
-  | Book review club | Rate and review books for a reading challenge | React | Node | MySQL | AWS or Digital Ocean
- 
-- **Back-end programming course**  
-  Course project repo: https://github.com/niklasovaska/backend25-course-project
-  | Course project    | Description | Front | Back | Database | Deployment |
-  | -------- | ------- | ------- | ------- | ------- | ------- |
-  | Album collection | Login to browse and update a shared album collection | React + TypeScript | Spring Boot | PostgreSQL | Heroku
-- **Cloud services technologies course**  
-  Pursuing AWS Certified Cloud Practitioner certification
-
+ - **Back-end programming course**  
+   Login to browse and edit a shared album collection. Building a **Spring Boot** back-end secured with **JWT** token authentication. First **TypeScript** front-end project. Back-end and **MariaDB** database deployment to **AWS**  
+  [Project repo](https://github.com/niklasovaska/backend25-course-project)
+  
+- **Front-end programming course**
+  Building a book review and rating application for a reading challenge. **Node** back-end exposing APIs and serving CRUD functionalities. Deployment to **Digital Ocean**.  
+  [Project repo](https://github.com/niklasovaska/book-review-app)
+  
 - **Software Development Project I course**  
   Deliver a full stack application for a client as member of a software development team using agile methods  
   Scrum principles, rules and roles  
