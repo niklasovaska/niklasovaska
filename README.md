@@ -16,19 +16,15 @@ Here are some ideas to get you started:
 -->
 ### A business information technology student becoming a full stack developer
 
-🌱 I’m currently studying modern full stack web development 
-
 ⚡ First live full stack project  
 **Personal study plan**  
 React application for accounting completed courses, drag-and-drop to schedule upcoming courses  
 [Live link](https://nova-study-hops.fly.dev/) | [Front-end repo](https://github.com/niklasovaska/personal-study-plan-application-front) | [Back-end repo](https://github.com/niklasovaska/personal-study-plan-application-backend)  
 
 
-
-
 🔭 Spring 2025 university courses include  
  - **Back-end programming course**  
-   Login to browse and edit a shared album collection. Building a **Spring Boot** back-end secured with **JWT** token authentication. First **TypeScript** front-end project. Back-end and **MariaDB** database deployment to **AWS**  
+   Login to browse and edit a shared album collection. Building a **Spring Boot** back-end secured with **JWT** token authentication. First **TypeScript** front-end project. 
   [Project repo](https://github.com/niklasovaska/backend25-course-project)
   
 - **Front-end programming course**
