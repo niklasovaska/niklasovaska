@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### A business information technology student becoming a full stack developer
 
-🌱 I’m currently studying modern full stack web development on Full stack open (part 4 and 5 at the moment)  
+🌱 I’m currently studying modern full stack web development 
 
 ⚡ First live full stack project  
 **Personal study plan**  
