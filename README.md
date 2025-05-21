@@ -32,15 +32,8 @@ React application for accounting completed courses, drag-and-drop to schedule up
   [Project repo](https://github.com/niklasovaska/backend25-course-project)
   
 - **Front-end programming course**
-  Building a book review and rating application for a reading challenge. **Node** back-end exposing APIs and serving CRUD functionalities. Deployment to **Digital Ocean**.  
+  Building a book review and rating application for a reading challenge. **Node** back-end exposing APIs and serving CRUD functionalities.  
   [Project repo](https://github.com/niklasovaska/book-review-app)
-
-- AWS Cloud Foundations - pursuing a AWS Cloud Practitioner certification
-  
-- **Software Development Project I course**  
-  Deliver a full stack application for a client as member of a software development team using agile methods  
-  Scrum principles, rules and roles  
-  Scrum events (Sprint planning, Daily Scrum, Sprint review, Sprint retro)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
