@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 Qualitative study exploring the differences of API development practices between **GraphQL** and **REST** in full stack app context. Building typesafe APIs utilizing **TypeGraphQL** and **TypeORM**.  
 [Thesis repo](https://github.com/niklasovaska/thesis-backend-graphql)
 
-**Reddit analyzer (groupd project)**  
+**Reddit analyzer (group project)**  
 Building a Reddit sentiment analyzer app with my fellow team members. As a university course project, this **Next.js** and **Flask** powered app will fetch trending topics and produce user-friendly analysis using **NLP** tools such as **VADER** sentiment anaylsis and **BERTopic** models.  
 [GitHub organization](https://github.com/ohjelmistoprojekti-ii-reddit-app)
 
