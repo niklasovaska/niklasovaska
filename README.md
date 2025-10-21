@@ -36,7 +36,7 @@ Building a Reddit sentiment analyzer app with my fellow team members. As a unive
 | Mobile programming | `react native` `expo` `firebase` |
 | Software Developent Technologies | `typescript` `graphql` `websocket` `cloudfare` `data visualization` |
 | Software Development Project II |  `flask` `next.js` `nlp` `ai` `vader` `bertopic` |
-| Software Test Automation |  `TBA` |
+| Software Test Automation |  `playwright` `robot framework` |
 
 
 <h3 align="left">Languages and Tools:</h3>
